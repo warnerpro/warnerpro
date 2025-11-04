@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Warner de Melo Filho
 
-<!--
-**warnerpro/warnerpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Engenharia de Software** na **Universidade Evangélica de Anápolis (Unievangélica)**  
 
-Here are some ideas to get you started:
+📍 Localização: **Anápolis - GO, Brasil**  
+📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/warner-filho) | [GitHub](https://github.com/warnerpro)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=warnerpro&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+
+
+### 🔥 Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warnerpro&layout=compact&theme=tokyonight)
+
+
+### 🏆 Troféus do GitHub
+![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=warnerpro&theme=tokyonight&margin-w=10&row=1)
+
+
